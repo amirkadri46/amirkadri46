@@ -6,15 +6,7 @@ AI Engineering is something which concides with my passion and hobby. Always up 
 ---
 
 - Love exploring how automation + AI can create intelligent workflows.
-- <p align="center">
-  <!-- Tenor GIF (linked to the Tenor page) -->
-  [![fartware kitten gif](https://tenor.com/view/fartware-phantomforces-bbot-pfpwner-exploit-gif-21261210)](https://tenor.com/en-GB/view/fartware-phantomforces-bbot-pfpwner-exploit-gif-21261210)
-</p>
-
-<p align="center"><em>Not a hacker — but I guess I've injected some virus.</em></p>
-
----
-
+https://tenor.com/bVmns.gif
 ---
 
 ## 📚 Currently Learning  
