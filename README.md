@@ -6,7 +6,6 @@ AI Engineering is something which concides with my passion and hobby. Always up 
 ---
 
 - Love exploring how automation + AI can create intelligent workflows.
-https://tenor.com/bVmns.gif
 ---
 
 ## 📚 Currently Learning  
