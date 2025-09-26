@@ -5,7 +5,15 @@
 AI Engineering is something which concides with my passion and hobby. Always up for talk on AI, softwares, agentic systems. Currently I'm building colom — an AI- powered customer support and sales platform for small- business, mid sized startup. its goal is to automate daily task so they can focus on something that really matters.
 ---
 
-- Love exploring how automation + AI can create intelligent workflows.  
+- Love exploring how automation + AI can create intelligent workflows.
+- <p align="center">
+  <!-- Tenor GIF (linked to the Tenor page) -->
+  [![fartware kitten gif](https://tenor.com/view/fartware-phantomforces-bbot-pfpwner-exploit-gif-21261210)](https://tenor.com/en-GB/view/fartware-phantomforces-bbot-pfpwner-exploit-gif-21261210)
+</p>
+
+<p align="center"><em>Not a hacker — but I guess I've injected some virus.</em></p>
+
+---
 
 ---
 
@@ -89,4 +97,4 @@ Explore my **AI-powered agents & projects** here:
 
 *"The best way to predict the future is to invent it – and I believe AI is the key to that future."*  
 
-</div>  
+</div> 
