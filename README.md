@@ -21,32 +21,30 @@ I believe **AI is the bridge between imagination and reality**. My mission is to
 
 ---
 
-## 📬 Reach Me  
-📧 Email: **amirkadri46@gmail.com**
+## 🤖 AI Agents I’ve Built for Daily Use  
+Check out the collection of my **AI-powered agents** and other projects here:  
+👉 [Linktree – Aamir Kadri](https://linktr.ee/aamir.err)  
 
 ---
 
-## 🚀 Featured Projects  
+## 🛠️ Tech Toolbox  
 
-### 🤖 Clue AI: Smart Workplace Assistant  
-**Meeting Summarization & Task Extraction**  
-[🔗 View Project](https://github.com/amirkadri46/clue-ai)  
+### 💻 Programming & Libraries  
+🐍 Python | 📊 Pandas | 🔢 NumPy | 🤖 Scikit-learn | 🧠 PyTorch | 🔥 TensorFlow | 🌀 LangChain | 📖 Transformers | 🖼 OpenCV | 🗂 Streamlit  
 
-### 📄 Resume Tracking Using GEMINI-API  
-**AI-Powered Recruitment Tool**  
-[🔗 View Project](https://github.com/amirkadri46/resume-tracking-gemini)  
+### 🧠 AI/ML Concepts  
+🤖 AI Agents | 🧬 Generative AI | 🗣 NLP | 🧠 Deep Learning | 📈 Machine Learning | 🔍 Embeddings | 📊 Statistics | 🗨️ Conversational AI | 🔎 Retrieval-Augmented Generation (RAG)  
 
-### 🏥 Medical Image Report Analyst Agent  
-**AI Diagnostic Tool with Gemini 2.0 Flash**  
-[🔗 View Project](https://github.com/amirkadri46/medical-image-analyst)  
+### ⚙️ Tools & Platforms  
+🛠 Git | 🐳 Docker | ☁️ AWS | 💻 SQL | 📦 Vector Databases | 📓 Jupyter Notebook | ⚡ LangSmith  
 
-### 📊 Customer Churn Prediction Model  
-**Neural Network with 90%+ Accuracy**  
-[🔗 View Project](https://github.com/amirkadri46/customer-churn-prediction)  
+### 📊 Data & Analytics  
+📈 Power BI | 📊 Tableau | 📊 Excel | 🔎 Data Visualization | 🔄 ETL | 🌐 Web Scraping | 🔮 Predictive Analytics  
 
-### ⚽ European Football Performance Dashboard  
-**Interactive Power BI Analytics Dashboard**  
-[🔗 View Project](https://github.com/amirkadri46/football-dashboard)  
+---
+
+## 📬 Reach Me  
+📧 Email: **amirkadri46@gmail.com**
 
 ---
 
