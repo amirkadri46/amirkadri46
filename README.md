@@ -2,13 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amirkadri46&color=blueviolet&style=flat-square&label=Profile+Visitors)
 
-## 🌟 Why AI Engineering?  
-I believe **AI is the bridge between imagination and reality**. My mission is to engineer intelligent systems that don’t just solve problems, but unlock new possibilities.  
-
+AI Engineering is something which concides with my passion and hobby. Always up for talk on AI, softwares, agentic systems. Currently I'm building colom — an AI- powered customer support and sales platform for small- business, mid sized startup. its goal is to automate daily task so they can focus on something that really matters.
 ---
 
-## 🧑‍💻 Personal Side  
-- Currently working on a **private passion project** (colom) 🚀  
 - Love exploring how automation + AI can create intelligent workflows.  
 
 ---
