@@ -8,38 +8,53 @@ I believe **AI is the bridge between imagination and reality**. My mission is to
 ---
 
 ## 🧑‍💻 Personal Side  
-- I’m currently working on a **private passion project** (colom) 🚀  
-- Beyond that, I enjoy building tools that blend automation and intelligence.  
+- Currently working on a **private passion project** (colom) 🚀  
+- Love exploring how automation + AI can create intelligent workflows.  
 
 ---
 
 ## 📚 Currently Learning  
-- 🔧 **MCPs (Model Context Protocols)**  
-- 🤖 **Agentic AI Infrastructure**  
-- 🕹 **Self-operating AI Agents**  
-- 🔄 **n8n for workflow automation**  
+- MCPs (Model Context Protocols)  
+- Agentic AI Infrastructure  
+- Self-operating AI Agents  
+- n8n for workflow automation  
 
 ---
 
 ## 🤖 AI Agents I’ve Built for Daily Use  
-Check out the collection of my **AI-powered agents** and other projects here:  
+Explore my **AI-powered agents & projects** here:  
 👉 [Linktree – Aamir Kadri](https://linktr.ee/aamir.err)  
 
 ---
 
-## 🛠️ Tech Toolbox  
+## 🛠️ Tech Stack  
 
-### 💻 Programming & Libraries  
-🐍 Python | 📊 Pandas | 🔢 NumPy | 🤖 Scikit-learn | 🧠 PyTorch | 🔥 TensorFlow | 🌀 LangChain | 📖 Transformers | 🖼 OpenCV | 🗂 Streamlit  
+### Programming & Core  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🧠 AI/ML Concepts  
-🤖 AI Agents | 🧬 Generative AI | 🗣 NLP | 🧠 Deep Learning | 📈 Machine Learning | 🔍 Embeddings | 📊 Statistics | 🗨️ Conversational AI | 🔎 Retrieval-Augmented Generation (RAG)  
+### AI/ML & Data Science  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFDF00?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ⚙️ Tools & Platforms  
-🛠 Git | 🐳 Docker | ☁️ AWS | 💻 SQL | 📦 Vector Databases | 📓 Jupyter Notebook | ⚡ LangSmith  
+### Cloud & Deployment  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 Data & Analytics  
-📈 Power BI | 📊 Tableau | 📊 Excel | 🔎 Data Visualization | 🔄 ETL | 🌐 Web Scraping | 🔮 Predictive Analytics  
+### Data Visualization & Analytics  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -64,18 +79,18 @@ Check out the collection of my **AI-powered agents** and other projects here:
 
 ## 🎓 Education & Certifications  
 
-🎓 **Postgraduate in Data Science & Analytics in AI & ML** - Imarticus Learning (2024-2025)  
-🎓 **Bachelor of Science in Information Technology** - S.M Shetty College, Mumbai University (2021-2024)  
+🎓 **Postgraduate in Data Science & Analytics in AI & ML** – Imarticus Learning (2024-2025)  
+🎓 **Bachelor of Science in Information Technology** – S.M Shetty College, Mumbai University (2021-2024)  
 
 ### 📜 Recent Certifications  
-- 🏆 **Complete Data Science, Machine Learning, DL, NLP Bootcamp**  
-- 🏆 **LLM Engineering: Master AI, Large Language Models & Agents**  
-- 🏆 **Complete Generative AI Course With Langchain and Huggingface**  
+- 🏆 Complete Data Science, Machine Learning, DL, NLP Bootcamp  
+- 🏆 LLM Engineering: Master AI, Large Language Models & Agents  
+- 🏆 Complete Generative AI Course with LangChain and Huggingface  
 
 ---
 
 <div align="center">  
 
-*"The best way to predict the future is to invent it - and I believe AI is the key to that future."*  
+*"The best way to predict the future is to invent it – and I believe AI is the key to that future."*  
 
 </div>  
